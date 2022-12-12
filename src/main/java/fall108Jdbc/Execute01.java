@@ -29,6 +29,7 @@ public class Execute01 {
         boolean result2= st.execute(sql2);
         System.out.println("result2=" + result2);
 
+
 //        //3.example;
 //        String sql3 ="Drop Table workers";
 //        boolean result3 =st.execute(sql3);
